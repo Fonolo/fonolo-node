@@ -49,6 +49,10 @@ Full API documentation is available from the [Fonolo developer site.][fonolo dev
 
 ## Release History
 
+### v1.0.1
+* Added support for the realtime and scheduled call-backs view.
+* Added support for the timezones endpoint
+
 ### v1.0.0
 * Initial release.
 

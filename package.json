@@ -1,6 +1,6 @@
 {
     "name": "fonolo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Node library for communicating with the Fonolo Call-Back Service",
     "main": "./lib/index.js",
     "directories": {
@@ -18,7 +18,7 @@
         "call-backs",
         "virtual queueing"
     ],
-    "author": "Mike Pultz <mike@fonolo.com> (https://mikepultz.com)",
+    "author": "Mike Pultz <mike@fonolo.com> (https://fonolo.com/)",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/fonolo/fonolo-node/issues"
