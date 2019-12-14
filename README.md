@@ -49,6 +49,9 @@ Full API documentation is available from the [Fonolo developer site.][fonolo dev
 
 ## Release History
 
+### v1.0.3
+* Added support for the /optin and /optins endpoints for viewing call-back opt-in requests.
+
 ### v1.0.2
 * Added support for the pending call-backs view (/pending endpoint)
 

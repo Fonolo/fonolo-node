@@ -1,6 +1,6 @@
 {
     "name": "fonolo",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A Node library for communicating with the Fonolo Call-Back Service",
     "main": "./lib/index.js",
     "directories": {
