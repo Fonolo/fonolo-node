@@ -1,4 +1,9 @@
-<a href="https://fonolo.com" target="_blank"><img src="https://portal.fonolo.com/static/1.0/images/fonolo_logo_large.png"/></a>
+<a href="https://fonolo.com" target="_blank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.fonolo.com/assets/github/logo_dark.svg">
+  <img alt="Fonolo" src="https://cdn.fonolo.com/assets/github/logo_light.svg" width="400">
+</picture>
+</a>
 
 # Node.js Client Library
 
